@@ -1,5 +1,5 @@
 /**
- * CFO ENGINE — Motore di analisi finanziaria per aziende manifatturiere
+ * CFO ENGINE — Motore di analisi finanziaria aziendale
  * Calcola KPI, identifica problemi, genera raccomandazioni concrete.
  */
 

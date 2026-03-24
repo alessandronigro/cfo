@@ -1,6 +1,6 @@
-# CFO Virtuale — Sistema di Analisi Finanziaria
+# Virtual Chief Financial Officer — Sistema di Analisi Finanziaria
 
-Applicazione completa per il controllo di gestione di aziende manifatturiere.
+Applicazione completa per il controllo di gestione di aziende di ogni settore.
 Calcola KPI, identifica problemi finanziari, genera raccomandazioni concrete.
 
 ---

@@ -1,7 +1,7 @@
 {
   "name": "cfo-virtual-frontend",
   "version": "1.0.0",
-  "description": "CFO Virtuale — Frontend React per aziende manifatturiere",
+  "description": "Virtual Chief Financial Officer — Frontend React multisettore",
   "type": "module",
   "scripts": {
     "dev": "vite",

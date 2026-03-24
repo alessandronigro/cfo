@@ -23,7 +23,7 @@ router.post('/setup', (req, res) => {
         SET nome=?, settore=?, sector=?, anno_fond=?, dipendenti=?, note=?, updated_at=?
         WHERE id=?
       `).run(
-        company.nome, company.settore || 'Manifatturiero',
+        company.nome, company.settore || 'Generico',
         company.sector || 'manufacturing',
         company.anno_fond || null, company.dipendenti || 0,
         company.note || null, now, companyId
@@ -35,7 +35,7 @@ router.post('/setup', (req, res) => {
         VALUES (?, ?, ?, ?, ?, ?, ?)
       `).run(
         companyId, company.nome,
-        company.settore || 'Manifatturiero',
+        company.settore || 'Generico',
         company.sector || 'manufacturing',
         company.anno_fond || null,
         company.dipendenti || 0,

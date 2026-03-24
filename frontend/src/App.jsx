@@ -96,8 +96,8 @@ export default function App() {
         <div className="header-brand">
           <span className="header-icon">📊</span>
           <div>
-            <h1>CFO Virtuale</h1>
-            <p>Analisi finanziaria per aziende manifatturiere</p>
+            <h1>Virtual Chief Financial Officer</h1>
+            <p>Analisi finanziaria e controllo di gestione multisettore</p>
           </div>
         </div>
       </header>

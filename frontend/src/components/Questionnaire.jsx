@@ -163,7 +163,7 @@ export default function Questionnaire({ onComplete, onBack }) {
       <div className="q-header">
         <button className="btn-back" onClick={onBack}>← Indietro</button>
         <div className="q-title">
-          <span>📊</span> CFO Virtuale — Configurazione Azienda
+          <span>📊</span> Virtual Chief Financial Officer — Configurazione Azienda
         </div>
       </div>
 

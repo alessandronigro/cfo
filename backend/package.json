@@ -1,7 +1,7 @@
 {
   "name": "cfo-virtual-backend",
   "version": "1.0.0",
-  "description": "CFO Virtuale - Backend API per aziende manifatturiere",
+  "description": "Virtual Chief Financial Officer - Backend API per tutti i tipi di azienda",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

@@ -15,7 +15,7 @@ function initDatabase() {
     CREATE TABLE IF NOT EXISTS companies (
       id          TEXT PRIMARY KEY,
       nome        TEXT NOT NULL,
-      settore     TEXT DEFAULT 'Manifatturiero',
+      settore     TEXT DEFAULT 'Generico',
       anno_fond   INTEGER,
       dipendenti  INTEGER DEFAULT 0,
       note        TEXT,

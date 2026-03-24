@@ -115,7 +115,7 @@ export default function Dashboard({ companyId, onBack }) {
         <div className="dash-brand">
           <span>📊</span>
           <div>
-            <div className="dash-brand-name">CFO Virtuale</div>
+            <div className="dash-brand-name">Virtual Chief Financial Officer</div>
             <div className="dash-brand-sub">Dashboard</div>
           </div>
         </div>

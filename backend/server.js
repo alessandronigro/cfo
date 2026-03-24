@@ -40,7 +40,7 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`\n🚀 CFO Virtuale Backend avviato su http://localhost:${PORT}`);
+  console.log(`\n🚀 Virtual Chief Financial Officer Backend avviato su http://localhost:${PORT}`);
   console.log(`📊 Endpoints disponibili:`);
   console.log(`   POST /api/company/setup`);
   console.log(`   GET  /api/company/data/:id`);

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Applications/wwwroot/cfo -not -path */node_modules/* -type f)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}

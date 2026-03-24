@@ -1,0 +1,11 @@
+✅ Database inizializzato: /Applications/wwwroot/cfo/backend/cfo.db
+
+🚀 CFO Virtuale Backend avviato su http://localhost:3001
+📊 Endpoints disponibili:
+   POST /api/company/setup
+   GET  /api/company/data/:id
+   GET  /api/company/list
+   POST /api/analysis/run
+   GET  /api/analysis/report/:company_id
+   GET  /api/analysis/history/:company_id
+
